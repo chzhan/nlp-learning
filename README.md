@@ -1,7 +1,7 @@
 # nlp-learning
 
-## Based on pytorch1.0 development
+## Based on PyTorch 1.0
 
-## All code can run directly on the CPU and GPU
+## All code could run directly on CPU and GPU
 
-## Simple and easy to read
+## Simple to use and easy to read
